@@ -17,7 +17,10 @@
 
 
 
-![](readmeimg/Aspose.Words.d130e470-a409-49f3-b68b-2e39241515e7.006.png)![](Aspose.Words.d130e470-a409-49f3-b68b-2e39241515e7.007.png)Добавяме нов запис:
+![](readmeimg/Aspose.Words.d130e470-a409-49f3-b68b-2e39241515e7.006.png)
+
+Добавяме нов запис:
+![](Aspose.Words.d130e470-a409-49f3-b68b-2e39241515e7.007.png)
 
 
 
